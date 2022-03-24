@@ -1,0 +1,1 @@
+this txt document is made exclusively to demonstrate the git commands
